@@ -1,0 +1,15 @@
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\TrashManagementApi_Data.deps.json
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\TrashManagementApi_Data.runtimeconfig.json
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\TrashManagementApi_Data.runtimeconfig.dev.json
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\TrashManagementApi_Data.dll
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\ref\TrashManagementApi_Data.dll
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\bin\Debug\net5.0\TrashManagementApi_Data.pdb
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.AssemblyInfoInputs.cache
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.AssemblyInfo.cs
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.csproj.CoreCompileInputs.cache
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.dll
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\ref\TrashManagementApi_Data.dll
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.pdb
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.genruntimeconfig.cache
+C:\Users\ECU\Desktop\EnesCanUyar_Odev2_TrashManagementProject\ikinci-hafta-odevi-ecuyar\TrashManagementApi_Data\obj\Debug\net5.0\TrashManagementApi_Data.csproj.AssemblyReference.cache
